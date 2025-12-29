@@ -1,3 +1,4 @@
+professional documentation comments to SQL queries
 /* ============================================================
 File Name   : joins_and_ctes.sql
 Author      : Naga Mallikarjun
