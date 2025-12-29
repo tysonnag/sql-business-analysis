@@ -3,7 +3,7 @@ File Name   : window_functions.sql
 Author      : Naga Mallikarjun
 Purpose     : Analytical queries using SQL Window Functions
 Domain      : Operational Performance Ranking & Trend Analysis
-
+ 
 Description :
 This file contains SQL queries that use window functions such
 as RANK(), ROW_NUMBER(), and AVG() OVER() to analyze and rank
