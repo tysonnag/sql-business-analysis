@@ -1,3 +1,4 @@
+professional documentation comments to SQL queries
 /* ============================================================
 File Name   : basic_queries.sql
 Author      : Naga Mallikarjun
