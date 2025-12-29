@@ -1,4 +1,3 @@
-professional documentation comments to SQL queries
 /* ============================================================
 File Name   : window_functions.sql
 Author      : Naga Mallikarjun
